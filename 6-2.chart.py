@@ -1,7 +1,7 @@
 import streamlit as st
 import altair as alt
 import pandas as pd
-
+import plotly.express as px
 # px 모듈이 없다고 에러가 나는 경우에만 아래 방법으로 plotly 라이브러리 설치
 # File > New > Terminal 선택 후, 창에 다음 구분 실행 pip install plotly 
 
